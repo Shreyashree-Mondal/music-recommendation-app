@@ -1,0 +1,5 @@
+pandas
+plotly
+mysql-connector-python
+sqlalchemy
+streamlit-option-menu
