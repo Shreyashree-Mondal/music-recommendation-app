@@ -61,7 +61,7 @@ No local installation is required to use the deployed application.
 ### 1. Clone the repository
 
 ```bash
-git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/Shreyashree-Mondal/music-recommendation-app/edit/main/README.md)
+git clone https://github.com/Shreyashree-Mondal/music-recommendation-app/edit/main/README.md
 cd music-recommendation-app
 ```
 
