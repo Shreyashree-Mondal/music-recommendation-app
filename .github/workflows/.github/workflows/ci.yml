@@ -29,3 +29,5 @@ jobs:
       - name: Run tests
         run: |
           pytest -v
+
+# CI pipeline for automated testing
