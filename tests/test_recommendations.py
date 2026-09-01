@@ -1,7 +1,6 @@
 import pandas as pd
 
-from dbmt_project_frontend_cloud import calculate_recommendation_score
-
+from recommendation_utils import calculate_recommendation_score
 
 def test_recommendation_score_is_between_zero_and_one():
     row = pd.Series({
